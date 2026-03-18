@@ -1,5 +1,4 @@
 # Chimera 
-## 🚧 Under Development 🚧
 **Flow-Anchor Poisoning: Clean-Label Backdoors in Flow-Matching Diffusion Transformers**
 
 > Research project investigating data poisoning vulnerabilities in next-generation DiT architectures (FLUX.1, Stable Diffusion 3)
